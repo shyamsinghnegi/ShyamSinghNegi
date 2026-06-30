@@ -17,7 +17,7 @@
 
 🧩 I work mostly with **TypeScript, React/Next.js and Node** on the front and **Python** on the back — and I'm just as happy wiring up the **AWS / Azure** infrastructure that keeps it all running.
 
-🏛️ Right now I'm building **CivicRelay** — a crowdsourced platform where citizens report civic issues with a photo and location, and the system routes each one to the right municipal department, all running on **Azure**.
+🏛️ Right now I'm building **CivicRelay** — a platform where citizens report civic issues with a photo and location, and the system routes each one to the right municipal department, all running on **Azure**.
 
 ⚙️ I care about the unglamorous parts too — clean deploys, sensible CI/CD, and systems that stay up. Functional isn't enough; it should be reliable.
 
@@ -95,7 +95,7 @@
 |---------|-------------|------|
 | 🌊 **[FloatChat](https://github.com/shyamsinghnegi/FloatChat)** | AI-powered conversational interface to query & visualize ARGO ocean data in natural language — RAG + LLM pipeline over NetCDF *(🚧 in development)* | `Python` `LLM` `RAG` `TypeScript` |
 | 📤 **[POOF — File Sharing](https://github.com/shyamsinghnegi/POOF-File-sharing)** | Fast, simple file sharing built on the edge | `Next.js` `Vercel` `Cloudflare R2` `D1` `Upstash` |
-| 🏛️ **[CivicRelay](https://github.com/shyamsinghnegi/CivicRelay)** | Crowdsourced civic issue reporting & resolution — photo/location reports, live issue map, and automated routing to municipal departments *(🚧 in development)* | `Next.js` `Tailwind` `Azure Functions` `Cosmos DB` `Azure Maps` `Computer Vision` |
+| 🏛️ **[CivicRelay](https://github.com/shyamsinghnegi/CivicRelay)** | Civic issue reporting & resolution — photo/location reports, live issue map, and automated routing to municipal departments *(🚧 in development)* | `Next.js` `Tailwind` `Azure Functions` `Cosmos DB` `Azure Maps` `Computer Vision` |
 | ☁️ **[Cloud Portfolio](https://github.com/shyamsinghnegi/Cloud-Portfolio)** | Serverless portfolio site running on Azure (migrated from an AWS build) | `Next.js` `Azure Blob Storage` `Azure Functions` `Cosmos DB` `Python` |
 | 🗓️ **[Employee Leave Portal](https://github.com/shyamsinghnegi/Employee_leave_portal)** | Leave management system with a full CI/CD pipeline *(🚧 in development)* | `Python` `Flask` `MySQL` `Docker` `Jenkins` `Azure` |
 
