@@ -11,13 +11,19 @@
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-- 🌐 I build **full-stack web apps** and care about clean, scalable **cloud / DevOps** setups
-- 🛠️ Currently sharpening my skills across **TypeScript, React/Next.js, Python & AWS**
-- 💼 **Open to freelance work and collaborations** — let's build something
-- 🔭 Recent projects: **FloatChat**, **POOF (file sharing)**, **CivicRelay**, **Cloud Resume**
-- 📫 Reach me through the links below
+👋 Hey, I'm **Shyam Singh Negi** — a full-stack developer and cloud/DevOps tinkerer who likes building things end to end, from the interface all the way down to the deploy pipeline.
+
+🧩 I work mostly with **TypeScript, React/Next.js and Node** on the front and **Python** on the back — and I'm just as happy wiring up the **AWS / Azure** infrastructure that keeps it all running.
+
+🏛️ Right now I'm building **CivicRelay** — a crowdsourced platform where citizens report civic issues with a photo and location, and the system routes each one to the right municipal department, all running on **Azure**.
+
+⚙️ I care about the unglamorous parts too — clean deploys, sensible CI/CD, and systems that stay up. Functional isn't enough; it should be reliable.
+
+🎯 I'm currently **freelancing and open to work** — full-stack, cloud, or anything where I get to own a problem from idea to production.
+
+📬 Always up for a good conversation — reach out if you want to talk web apps, cloud, or AI.
 
 ---
 
@@ -57,6 +63,10 @@
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=upstash&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -65,6 +75,7 @@
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **AI / Data**
@@ -82,11 +93,11 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🌊 **[FloatChat](https://github.com/shyamsinghnegi/FloatChat)** | AI-powered conversational interface to query & visualize ARGO ocean data in natural language — RAG + LLM pipeline over NetCDF *(Smart India Hackathon · MoES/INCOIS)* | `Python` `LLM` `RAG` `TypeScript` |
-| 📤 **[POOF — File Sharing](https://github.com/shyamsinghnegi/POOF-File-sharing)** | Fast, simple file sharing | `TypeScript` |
-| 🏛️ **[CivicRelay](https://github.com/shyamsinghnegi/CivicRelay)** | Civic engagement / reporting platform | `TypeScript` |
-| ☁️ **[Cloud Resume](https://github.com/shyamsinghnegi/Cloud-Resume)** | Resume deployed on the cloud | `CSS` |
-| 🗓️ **[Employee Leave Portal](https://github.com/shyamsinghnegi/Employee_leave_portal)** | Leave management system | `Python` |
+| 🌊 **[FloatChat](https://github.com/shyamsinghnegi/FloatChat)** | AI-powered conversational interface to query & visualize ARGO ocean data in natural language — RAG + LLM pipeline over NetCDF *(🚧 in development)* | `Python` `LLM` `RAG` `TypeScript` |
+| 📤 **[POOF — File Sharing](https://github.com/shyamsinghnegi/POOF-File-sharing)** | Fast, simple file sharing built on the edge | `Next.js` `Vercel` `Cloudflare R2` `D1` `Upstash` |
+| 🏛️ **[CivicRelay](https://github.com/shyamsinghnegi/CivicRelay)** | Crowdsourced civic issue reporting & resolution — photo/location reports, live issue map, and automated routing to municipal departments *(🚧 in development)* | `Next.js` `Tailwind` `Azure Functions` `Cosmos DB` `Azure Maps` `Computer Vision` |
+| ☁️ **[Cloud Portfolio](https://github.com/shyamsinghnegi/Cloud-Portfolio)** | Portfolio deployed on the cloud | `CSS` |
+| 🗓️ **[Employee Leave Portal](https://github.com/shyamsinghnegi/Employee_leave_portal)** | Leave management system with a full CI/CD pipeline *(🚧 in development)* | `Python` `Flask` `MySQL` `Docker` `Jenkins` `Azure` |
 
 <p align="center">
   <a href="https://github.com/shyamsinghnegi?tab=repositories">
