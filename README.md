@@ -110,16 +110,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shyamsinghnegi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsinghnegi&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shyamsinghnegi&theme=tokyonight" alt="profile summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shyamsinghnegi&theme=tokyonight" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shyamsinghnegi&theme=tokyonight" alt="most used language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyamsinghnegi&theme=tokyonight" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shyamsinghnegi&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamsinghnegi&theme=tokyonight" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shyamsinghnegi&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
 </p>
 
 ---
