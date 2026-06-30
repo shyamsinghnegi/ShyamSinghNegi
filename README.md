@@ -96,7 +96,7 @@
 | 🌊 **[FloatChat](https://github.com/shyamsinghnegi/FloatChat)** | AI-powered conversational interface to query & visualize ARGO ocean data in natural language — RAG + LLM pipeline over NetCDF *(🚧 in development)* | `Python` `LLM` `RAG` `TypeScript` |
 | 📤 **[POOF — File Sharing](https://github.com/shyamsinghnegi/POOF-File-sharing)** | Fast, simple file sharing built on the edge | `Next.js` `Vercel` `Cloudflare R2` `D1` `Upstash` |
 | 🏛️ **[CivicRelay](https://github.com/shyamsinghnegi/CivicRelay)** | Crowdsourced civic issue reporting & resolution — photo/location reports, live issue map, and automated routing to municipal departments *(🚧 in development)* | `Next.js` `Tailwind` `Azure Functions` `Cosmos DB` `Azure Maps` `Computer Vision` |
-| ☁️ **[Cloud Portfolio](https://github.com/shyamsinghnegi/Cloud-Portfolio)** | Portfolio deployed on the cloud | `CSS` |
+| ☁️ **[Cloud Portfolio](https://github.com/shyamsinghnegi/Cloud-Portfolio)** | Serverless portfolio site running on Azure (migrated from an AWS build) | `Next.js` `Azure Blob Storage` `Azure Functions` `Cosmos DB` `Python` |
 | 🗓️ **[Employee Leave Portal](https://github.com/shyamsinghnegi/Employee_leave_portal)** | Leave management system with a full CI/CD pipeline *(🚧 in development)* | `Python` `Flask` `MySQL` `Docker` `Jenkins` `Azure` |
 
 <p align="center">
